@@ -35,7 +35,6 @@ A Virtual Machine contains:
 Because of this, VMs are heavier and slower.
 
 ---
-
 ## Docker
 
 Docker does not create a full operating system.
@@ -64,7 +63,7 @@ Multiple containers can run on the same machine safely.
 
 # Advantages of Docker
 
-## Easy Setup
+## Easy Setup : 
 
 Docker makes application installation simple.
 
