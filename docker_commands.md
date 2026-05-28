@@ -21,7 +21,6 @@ Meaning:
 Downloads the nginx image from Docker Hub.
 
 ---
-
 # Show Downloaded Images
 
 ```bash
