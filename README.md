@@ -1,6 +1,6 @@
 # Docker Learning Repository
 
-This repository contains my Docker learning notes, commands, practice files, and examples.
+This repository contains my Docker learning notes, commands, practice files, and examples for easy learning .
 
 ## Topics Covered
 
@@ -13,7 +13,7 @@ This repository contains my Docker learning notes, commands, practice files, and
 - Docker Compose
 - Container Management
 
-## Purpose
+## Purpose of this :
 
 This repository is created to:
 - learn Docker step by step
