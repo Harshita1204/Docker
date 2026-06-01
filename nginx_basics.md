@@ -14,8 +14,7 @@ Nginx is very fast and lightweight.
 It is widely used in modern web development.
 
 ---
-
-# Why Nginx is Popular
+# Why Nginx is Popular?
 
 Nginx is popular because it:
 - handles many users efficiently
@@ -313,6 +312,5 @@ Docker
    ├── PHP Container
    └── MySQL Container
 ```
-
 Each service runs independently.
 
